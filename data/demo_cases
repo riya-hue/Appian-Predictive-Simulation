@@ -1,0 +1,9 @@
+📊 data/demo_cases.xlsx
+
+Create an Excel file with exactly these columns:
+
+CaseID	ArrivalTime	Complexity	Status	AssignedTo	ProcessingTime	SLA	Team
+101	09:00	High	InProgress	Alice	2.5	4	Intake
+102	09:15	Medium	Pending	Bob	1.8	3	Review
+103	09:30	Low	InProgress	Carol	1.0	2	Intake
+104	09:45	High	Pending	David	3.0	5	Review
